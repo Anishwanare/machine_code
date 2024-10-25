@@ -1,4 +1,4 @@
-# Student Data String CRUD Operation
+# Student Data storing
 
 This project provides a robust implementation of CRUD (Create, Read, Update, Delete) operations for managing student data. The application consists of a frontend built with React and a backend powered by Node.js and PostgreSQL.
 
