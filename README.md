@@ -31,7 +31,7 @@ This project provides a robust implementation of CRUD (Create, Read, Update, Del
 npm install
 
 create .env file and add:
-VITE_API_BASE_URL=<your_backend_url>
+VITE_API_BASE_URL=http://localhost:<backend_port_number>
 
 2. Navigate to the backend directory:
    ```bash
